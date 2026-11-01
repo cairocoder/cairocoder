@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="CairoCoder">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
@@ -27,7 +28,7 @@
     <path d="M149.5 0v300M449.5 0v300M749.5 0v300M1049.5 0v300"/>
   </g>
   <rect x="96" y="248" width="1008" height="1" fill="url(#glow)"/>
-  <text x="600" y="128" fill="#f0f6fc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="650" text-anchor="middle" letter-spacing="0.32em">CAIROCODER</text>
-  <text x="600" y="168" fill="#9ca3af" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="500" text-anchor="middle" letter-spacing="0.28em">FULL-STACK ENGINEER · CAIRO</text>
-  <text x="600" y="204" fill="#6b7280" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" text-anchor="middle" letter-spacing="0.06em">Laravel · Next.js · TypeScript · Arabic-first products</text>
+  <text x="600" y="128" fill="#f0f6fc" font-family="ui-sans-serif,system-ui,sans-serif" font-size="46" font-weight="600" text-anchor="middle" letter-spacing="0.32em">CAIROCODER</text>
+  <text x="600" y="168" fill="#9ca3af" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="500" text-anchor="middle" letter-spacing="0.28em">FULL-STACK ENGINEER / CAIRO</text>
+  <text x="600" y="204" fill="#6b7280" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" text-anchor="middle" letter-spacing="0.06em">Laravel / Next.js / TypeScript / Arabic-first products</text>
 </svg>
