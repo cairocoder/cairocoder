@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="CairoCoder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0a0c10"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#e8c547"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 60) rotate(90) scale(180)">
+      <stop stop-color="#d4af37" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 240) rotate(-90) scale(140)">
+      <stop stop-color="#58a6ff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#orb)"/>
+  <rect width="1200" height="300" fill="url(#orb2)"/>
+  <g stroke="#21262d" stroke-width="1" opacity="0.55">
+    <path d="M0 74.5h1200M0 149.5h1200M0 224.5h1200"/>
+    <path d="M149.5 0v300M449.5 0v300M749.5 0v300M1049.5 0v300"/>
+  </g>
+  <rect x="96" y="248" width="1008" height="1" fill="url(#glow)"/>
+  <text x="600" y="128" fill="#f0f6fc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="650" text-anchor="middle" letter-spacing="0.32em">CAIROCODER</text>
+  <text x="600" y="168" fill="#9ca3af" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="500" text-anchor="middle" letter-spacing="0.28em">FULL-STACK ENGINEER · CAIRO</text>
+  <text x="600" y="204" fill="#6b7280" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" text-anchor="middle" letter-spacing="0.06em">Laravel · Next.js · TypeScript · Arabic-first products</text>
+</svg>
