@@ -10,6 +10,7 @@
   <a href="https://www.cairocoder.com"><img src="https://img.shields.io/badge/Website-cairocoder.com-D4AF37?style=for-the-badge&labelColor=161b22&logo=google-chrome&logoColor=D4AF37" alt="Website"/></a>
   <a href="mailto:cairocoder@gmail.com"><img src="https://img.shields.io/badge/Email-cairocoder%40gmail.com-161b22?style=for-the-badge&labelColor=161b22&logo=gmail&logoColor=D4AF37" alt="Email"/></a>
   <a href="https://twitter.com/CairoCoder"><img src="https://img.shields.io/badge/X-@CairoCoder-161b22?style=for-the-badge&labelColor=161b22&logo=x&logoColor=D4AF37" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/cairocoder/"><img src="https://img.shields.io/badge/LinkedIn-cairocoder-161b22?style=for-the-badge&labelColor=161b22&logo=linkedin&logoColor=D4AF37" alt="LinkedIn"/></a>
 </p>
 
 <br/>
@@ -20,11 +21,13 @@
 
 ### About
 
-Engineer based in **Cairo, Egypt**. I ship **end-to-end products** — from tenancy and API contracts to Arabic-first UX and deployment.
+**Said Abdul Aziem** (CairoCoder) · **Cairo, Egypt**
 
-**Now:** **Nawartena** — discovery and digital menus for neighborhood restaurants and cafés (Laravel modular monolith · Next.js · MySQL · Redis).
+Webmaster Manager at **DMG** / **Mountain View** — I lead web developers and administrators shipping production systems for the business. Background in full-stack delivery, mentorship, and AI engineering (AWS AI Practitioner · KCNA).
 
-**Earlier:** Maintainer of **Bootstrap 4 RTL**, used across RTL locales worldwide.
+**Building:** **Nawartena** (restaurant discovery and digital menus) · [**Sharedrop**](https://sharedrop.space) (WebRTC P2P sharing, any device / any network)
+
+**Open source:** Maintainer of **Bootstrap 4 RTL** for Arabic, Farsi, and RTL locales.
 
 </td>
 <td width="50%" valign="top">
