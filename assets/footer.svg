@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="72" viewBox="0 0 900 72" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#21262d"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="72" fill="#0d1117"/>
+  <path d="M0 28 Q225 52 450 28 T900 28 L900 72 L0 72 Z" fill="#161b22"/>
+  <rect x="120" y="48" width="660" height="1" fill="url(#fade)"/>
+  <text x="450" y="58" fill="#8b949e" font-family="ui-sans-serif,system-ui,sans-serif" font-size="13" text-anchor="middle">Open to senior roles and select consulting</text>
+</svg>

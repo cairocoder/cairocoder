@@ -1,8 +1,8 @@
-<img src="./assets/banner.svg" alt="" width="100%"/>
+<img src="./assets/banner.svg" alt="CairoCoder — full-stack engineer" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/?font=Inter&weight=500&size=20&duration=3800&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Building+production-grade+web+platforms;Restaurant+tech+for+Egypt+%E2%80%94+Nawartena;Modular+APIs+%26+polished+frontends;RTL+%26+localization+as+first-class">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3800&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Building+production-grade+web+platforms;Restaurant+tech+for+Egypt+%E2%80%94+Nawartena;Modular+APIs+%26+polished+frontends;RTL+%26+localization+as+first-class" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3800&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Building+production-grade+web+platforms;Restaurant+tech+for+Egypt+%E2%80%94+Nawartena;Modular+APIs+%26+polished+frontends;RTL+%26+localization+as+first-class" alt="Building production-grade web platforms"/>
   </a>
 </p>
 
@@ -46,19 +46,19 @@ Engineer based in **Cairo, Egypt**. I ship **end-to-end products** — from tena
 
 <p align="center">
   <a href="https://github.com/cairocoder/bootstrap-4-rtl-stable-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cairocoder&repo=bootstrap-4-rtl-stable-final&theme=transparent&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=D4AF37&hide_border=true&border_radius=16" alt="bootstrap-4-rtl-stable-final"/>
+    <img src="./assets/cards/bootstrap-4-rtl.svg" alt="bootstrap-4-rtl-stable-final" width="420"/>
   </a>
   <a href="https://github.com/cairocoder/monasba">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cairocoder&repo=monasba&theme=transparent&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=D4AF37&hide_border=true&border_radius=16" alt="monasba"/>
+    <img src="./assets/cards/monasba.svg" alt="monasba" width="420"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cairocoder/php-barcode-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cairocoder&repo=php-barcode-generator&theme=transparent&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=D4AF37&hide_border=true&border_radius=16" alt="php-barcode-generator"/>
+    <img src="./assets/cards/php-barcode.svg" alt="php-barcode-generator" width="420"/>
   </a>
   <a href="https://github.com/cairocoder/events-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cairocoder&repo=events-app&theme=transparent&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=D4AF37&hide_border=true&border_radius=16" alt="events-app"/>
+    <img src="./assets/cards/events-app.svg" alt="events-app" width="420"/>
   </a>
 </p>
 
@@ -81,7 +81,7 @@ Engineer based in **Cairo, Egypt**. I ship **end-to-end products** — from tena
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cairocoder&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&icon_color=D4AF37&border_radius=16&include_all_commits=true&count_private=false" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cairocoder&theme=github_dark" alt="GitHub profile stats" height="165"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cairocoder&theme=transparent&background=0d1117&border=0d1117&stroke=21262d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=6b7280" height="165" alt="Contribution streak"/>
 </p>
@@ -89,9 +89,9 @@ Engineer based in **Cairo, Egypt**. I ship **end-to-end products** — from tena
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=80&section=footer&text=Open%20to%20senior%20roles%20%26%20select%20consulting&fontSize=14&fontColor=8b949e"/>
+  <img src="./assets/footer.svg" alt="" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cairocoder&label=&color=0d1117&logo=GitHub" alt=""/>
+  <sub>cairocoder@gmail.com</sub>
 </p>
