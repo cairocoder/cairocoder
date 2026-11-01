@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" alt="CairoCoder — full-stack engineer" width="100%"/>
+<img src="https://raw.githubusercontent.com/cairocoder/cairocoder/main/assets/banner.svg" alt="CairoCoder — full-stack engineer" width="100%"/>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/?font=Inter&weight=500&size=20&duration=3800&pause=900&color=D4AF37&center=true&vCenter=true&width=640&lines=Building+production-grade+web+platforms;Restaurant+tech+for+Egypt+%E2%80%94+Nawartena;Modular+APIs+%26+polished+frontends;RTL+%26+localization+as+first-class">
@@ -46,19 +46,19 @@ Engineer based in **Cairo, Egypt**. I ship **end-to-end products** — from tena
 
 <p align="center">
   <a href="https://github.com/cairocoder/bootstrap-4-rtl-stable-final">
-    <img src="./assets/cards/bootstrap-4-rtl.svg" alt="bootstrap-4-rtl-stable-final" width="420"/>
+    <img src="https://raw.githubusercontent.com/cairocoder/cairocoder/main/assets/cards/bootstrap-4-rtl.svg" alt="bootstrap-4-rtl-stable-final" width="420"/>
   </a>
   <a href="https://github.com/cairocoder/monasba">
-    <img src="./assets/cards/monasba.svg" alt="monasba" width="420"/>
+    <img src="https://raw.githubusercontent.com/cairocoder/cairocoder/main/assets/cards/monasba.svg" alt="monasba" width="420"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/cairocoder/php-barcode-generator">
-    <img src="./assets/cards/php-barcode.svg" alt="php-barcode-generator" width="420"/>
+    <img src="https://raw.githubusercontent.com/cairocoder/cairocoder/main/assets/cards/php-barcode.svg" alt="php-barcode-generator" width="420"/>
   </a>
   <a href="https://github.com/cairocoder/events-app">
-    <img src="./assets/cards/events-app.svg" alt="events-app" width="420"/>
+    <img src="https://raw.githubusercontent.com/cairocoder/cairocoder/main/assets/cards/events-app.svg" alt="events-app" width="420"/>
   </a>
 </p>
 
@@ -89,7 +89,7 @@ Engineer based in **Cairo, Egypt**. I ship **end-to-end products** — from tena
 <br/>
 
 <p align="center">
-  <img src="./assets/footer.svg" alt="" width="100%"/>
+  <img src="https://raw.githubusercontent.com/cairocoder/cairocoder/main/assets/footer.svg" alt="" width="100%"/>
 </p>
 
 <p align="center">
